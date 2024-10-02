@@ -3,3 +3,5 @@ Success
 This is a message written by Aruna
 
 This is a message added by Gourisha!
+
+This is a new line added after updating the profile.
